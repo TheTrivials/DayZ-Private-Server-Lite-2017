@@ -25,8 +25,8 @@ if ((!isServer) && (isNull player) ) then {
 };
 
 if ((!isServer) && (player != player)) then {
-  waitUntil {player == player};
-  waitUntil {time > 3};
+	waitUntil {player == player};
+	waitUntil {time > 3};
 };
 
 if (isServer) then {

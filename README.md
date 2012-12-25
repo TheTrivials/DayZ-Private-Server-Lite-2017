@@ -31,10 +31,11 @@ Installation
 
  1. Extract all the contents in this repo into your Arma 2 Combined Operations directory.
  2. Configure your server by editing `ServerSettings.cfg` (Located in **DayZConfig**)
- 4. * Configure your game port by editing `Start Server.bat`
- 5. * Configure your Rcon password/max ping by editing `BEServer.cfg` (Located in **DayZConfig**/Battleye)
- 5. Execute `Start Server.bat` and wait for the Arma 2 Dedicated Server Console to appear.
- 6. Enjoy!
+ 3. * Configure your game port by editing `Start Server.bat`
+ 4. * Configure your Rcon password/max ping by editing `BEServer.cfg` (Located in **DayZConfig**/Battleye)
+ 5. * Configure your server timezone etc. by editing `HiveExt.ini` (Located in **DayZConfig**)
+ 6. Execute `Start Server.bat` and wait for the Arma 2 Dedicated Server Console to appear.
+ 7. Enjoy!
 
 Vehicles
 --------
@@ -51,6 +52,7 @@ Utilities
 
  - Backup Database
  - Clear Server Logs
+ - Optional Kill Messages
  - Update Battleye Bans
  - Update Battleye Filters [NOT TESTED WITH DAYZ: 2017]
  - Update Battleye
