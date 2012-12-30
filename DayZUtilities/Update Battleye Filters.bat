@@ -4,7 +4,6 @@ Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/a
 Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/addmagazinecargo.txt
 Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/addweaponcargo.txt
 Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/attachto.txt
-Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/createvehicle.txt
 Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/deletevehicle.txt
 Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/mpeventhandler.txt
 Resources\wget.exe -N http://dayz-community-banlist.googlecode.com/git/filters/publicvariable.txt
@@ -23,7 +22,6 @@ move /y addbackpackcargo.txt ../DayZConfig/BattlEye/
 move /y addmagazinecargo.txt ../DayZConfig/BattlEye/
 move /y addweaponcargo.txt ../DayZConfig/BattlEye/
 move /y attachto.txt ../DayZConfig/BattlEye/
-move /y createvehicle.txt ../DayZConfig/BattlEye/
 move /y deletevehicle.txt ../DayZConfig/BattlEye/
 move /y mpeventhandler.txt ../DayZConfig/BattlEye/
 move /y puplicvariable.txt ../DayZConfig/BattlEye/

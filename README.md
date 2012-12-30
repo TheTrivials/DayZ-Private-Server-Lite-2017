@@ -54,7 +54,7 @@ Utilities
  - Clear Server Logs
  - Optional Kill Messages
  - Update Battleye Bans
- - Update Battleye Filters [NOT TESTED WITH DAYZ: 2017]
+ - Update Battleye Filters
  - Update Battleye
 
 Known Bugs
