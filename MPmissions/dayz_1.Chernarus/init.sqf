@@ -34,6 +34,10 @@ if (isServer) then {
 	_serverMonitor = 	[] execVM "\z\addons\dayz_code\system\server_monitor.sqf";
 };
 
+if (isServer) then {
+	[] execVM "scripts\zwoods.sqf";
+};
+
 if (!isDedicated) then {
 	0 fadeSound 0;
 	0 cutText [(localize "STR_AUTHENTICATING"), "BLACK FADED",60];
