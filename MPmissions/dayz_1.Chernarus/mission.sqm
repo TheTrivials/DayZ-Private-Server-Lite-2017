@@ -13,10 +13,13 @@ class Mission
 		"ice_apo_resistance_patch",
 		"ice_apo_vehicles_patch",
 		"datsun_civil_apoc_shinkicker",
-		"Tanya",
+		"BB_OA_Female",
 		"tank_apoc_shinkicker",
 		"2017_BUS",
 		"2017_Bikes",
+		"Tent2017",
+		"CSJ_GyroAC",
+		"2017_Plane",
 		"ca_modules_functions"
 	};
 	addOnsAuto[]=
